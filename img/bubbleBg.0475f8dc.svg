@@ -1,0 +1,19 @@
+<svg width="976" height="905" viewBox="0 0 976 905" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M754.879 358.879C754.879 488.113 650.113 592.879 520.879 592.879C391.644 592.879 286.879 488.113 286.879 358.879C286.879 229.644 391.644 124.879 520.879 124.879C650.113 124.879 754.879 229.644 754.879 358.879Z" fill="#FFF8F5"/>
+<rect width="1206" height="905" fill="url(#pattern0)"/>
+<rect x="337.213" y="478" width="30" height="30" transform="rotate(45 337.213 478)" fill="#FFC121"/>
+<rect x="258.213" y="520.707" width="13.4437" height="13.4437" transform="rotate(45 258.213 520.707)" stroke="#96CDED"/>
+<circle cx="300.379" cy="171.879" r="32.5" fill="#FFF5F2"/>
+<circle cx="397.379" cy="254.879" r="6" stroke="#697181"/>
+<mask id="mask0_147_16" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="292" y="343" width="29" height="29">
+<circle cx="306.733" cy="357.733" r="14" transform="rotate(-130.316 306.733 357.733)" fill="#FE6543"/>
+</mask>
+<g mask="url(#mask0_147_16)">
+<rect x="304.654" y="383.104" width="36" height="19" transform="rotate(-130.316 304.654 383.104)" fill="#FE6543"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_147_16" transform="translate(-0.000276396) scale(0.000333518 0.000444444)"/>
+</pattern>
+</defs>
+</svg>
